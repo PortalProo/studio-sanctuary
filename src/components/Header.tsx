@@ -22,14 +22,14 @@ export const Header = () => {
             <a href="#features" className="text-muted-foreground hover:text-foreground transition-colors">
               Features
             </a>
-            <a href="#pricing" className="text-muted-foreground hover:text-foreground transition-colors">
-              Pricing
-            </a>
             <a href="#integrations" className="text-muted-foreground hover:text-foreground transition-colors">
               Integrations
             </a>
-            <a href="#testimonials" className="text-muted-foreground hover:text-foreground transition-colors">
-              Reviews
+            <a href="#pricing" className="text-muted-foreground hover:text-foreground transition-colors">
+              Pricing
+            </a>
+            <a href="#faq" className="text-muted-foreground hover:text-foreground transition-colors">
+              FAQ
             </a>
           </nav>
 
@@ -59,14 +59,14 @@ export const Header = () => {
               <a href="#features" className="text-muted-foreground hover:text-foreground transition-colors">
                 Features
               </a>
-              <a href="#pricing" className="text-muted-foreground hover:text-foreground transition-colors">
-                Pricing
-              </a>
               <a href="#integrations" className="text-muted-foreground hover:text-foreground transition-colors">
                 Integrations
               </a>
-              <a href="#testimonials" className="text-muted-foreground hover:text-foreground transition-colors">
-                Reviews
+              <a href="#pricing" className="text-muted-foreground hover:text-foreground transition-colors">
+                Pricing
+              </a>
+              <a href="#faq" className="text-muted-foreground hover:text-foreground transition-colors">
+                FAQ
               </a>
               <div className="flex flex-col gap-2 pt-4 border-t border-border">
                 <Button variant="ghost" className="justify-start">
